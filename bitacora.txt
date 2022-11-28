@@ -10,3 +10,6 @@
 (23)	commit -m "Paso 23"
 (24)	checkout master
 (25)					por fast-forward
+(26)	add bitacora.txt
+	commit -m "Paso 26"
+(28)	push origin Historia001
